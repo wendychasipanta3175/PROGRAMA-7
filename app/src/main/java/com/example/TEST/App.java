@@ -16,6 +16,6 @@ public class App {
 
         double radio = C / (2 * Math.PI);
 
-        System.out.println("El radio de la circunferencia es: " + radio);
+        System.out.println("El numero de la circunferencia es: " + radio);
     }
 }

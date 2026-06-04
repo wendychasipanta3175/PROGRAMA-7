@@ -14,7 +14,7 @@ public class App {
 
         System.out.print("Ingresa un numeroe la circunferencia: ");
         double C = sc.nextDouble();
-
+//proceso
         double radio = C / (2 * Math.PI);
 
         System.out.println("El numero de la circunferencia es: " + radio);

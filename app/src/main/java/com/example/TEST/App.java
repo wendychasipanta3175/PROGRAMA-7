@@ -9,6 +9,8 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
+        System.out.println("2.\tDiseñe un algoritmo que permita ingresar números enteros positivos. El proceso termina cuando se ingrese un número negativo. Al finalizar, mostrar la cantidad de números ingresados, la suma total y el promedio. ");
+        System.out.println("realiza guangasig");
         Scanner sc = new Scanner(System.in);
         //programa
 

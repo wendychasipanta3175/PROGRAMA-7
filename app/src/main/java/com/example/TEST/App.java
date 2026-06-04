@@ -15,6 +15,7 @@ public class App {
         System.out.print("Introduzca la longitud: ");
         double C = sc.nextDouble();
 //proceso
+//goku
         double radio = C / (2 * Math.PI);
 
         System.out.println("El numero del circulo  es: " + radio);

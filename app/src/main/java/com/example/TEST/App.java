@@ -12,7 +12,7 @@ public class App {
         Scanner sc = new Scanner(System.in);
         //programa
 
-        System.out.print("Ingresa un numeroe la circunferencia: ");
+        System.out.print("Introduzca la longitud: ");
         double C = sc.nextDouble();
 //proceso
         double radio = C / (2 * Math.PI);

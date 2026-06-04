@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        //programa
 
         System.out.print("Ingresa un numeroe la circunferencia: ");
         double C = sc.nextDouble();

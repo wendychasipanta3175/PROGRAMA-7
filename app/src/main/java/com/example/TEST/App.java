@@ -10,6 +10,6 @@ public class App {
 
         double radio = C / (2 * Math.PI);
 
-        System.out.println("El radio es: " + radio);
+        System.out.println("El radio de tal tal de tal cosa es: " + radio);
     }
 }
